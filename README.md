@@ -1,6 +1,7 @@
-# 👋 JUAN SUÁREZ
+<div style="font-family: 'Orbitron', sans-serif; background-color: #000000; color: #00FF41; padding: 20px; border-radius: 5px;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=4963&pause=995&color=343434FB&background=FFFFFF&center=true&vCenter=true&width=1000&height=134&lines=Software+developer;Java+lover+%3C3;Open-Source+contribuitor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source%2BCode%2BPro&weight=600&size=60&duration=4963&pause=995&color=625C5EFB&background=FFFFFF&center=true&vCenter=true&width=1000&height=134&lines=Juan+Su%C3%A1rez;Project+Management;Software+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source%2BCode%2BPro&weight=300&size=60&duration=4963&pause=995&color=625C5EFB&background=FFFFFF&center=true&vCenter=true&width=1287&height=134&lines=Software+Developer;Agile+Methodologies+(scrum+%26+xp);Principles%2C+Patterns+%26+Best+Practices)](https://git.io/typing-svg)
 
 ---
 
@@ -41,18 +42,19 @@
 
 ---
 
-<!-- Sección de proyectos con fondo oscuro -->
-<div style="background-color: #0d1117; padding: 15px; border-radius: 8px; margin: 10px 0;">
-
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com) | [![Project 1](https://img.shields.io/badge/-My_Java_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
 | [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/) | [![Project 2](https://img.shields.io/badge/-Spring_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
+---
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-</div>
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+
+</details>
 
 ---
-
 <h3 style="color: #58a6ff;">Where to find me</h3>
 <p>
   <a href="https://github.com/juansuarezb" target="_blank">
@@ -71,4 +73,4 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+</div>
