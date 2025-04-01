@@ -48,18 +48,13 @@
 | [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/) | [![Project 2](https://img.shields.io/badge/-Spring_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
 ---
 <details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+    <summary><b>GitHub Stats</b></summary><br/>
 
 </details>
 
 ---
 <h3 style="color: #58a6ff;">Where to find me</h3>
 <p>
-  <a href="https://github.com/juansuarezb" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/suarezjuandb" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
