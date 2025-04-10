@@ -25,15 +25,17 @@
 **Tools and Services:** <br>
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-## Best Projects
+## 🌟 Proyectos Destacados
 
 <a href="https://github.com/juansuarezb/CursoJava">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=CursoJava&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Simulador-Del-Sistema-Solar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=CursoJava&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso Java" />
 </a>
 
 <a href="https://github.com/juansuarezb/PROYECTO_DELIVERY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=PROYECTO_DELIVERY&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PROYECTO_DELIVERY" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=PROYECTO_DELIVERY&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Sistema Delivery" />
 </a>
+
+
 
 ---
 <h3 style="color: #58a6ff;">Where to find me</h3>
