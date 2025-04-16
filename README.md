@@ -3,15 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source%2BCode%2BPro&weight=600&size=60&duration=4963&pause=995&color=625C5EFB&background=FFFFFF&center=true&vCenter=true&width=1000&height=134&lines=Juan+Su%C3%A1rez;Project+Management;Software+Design)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source%2BCode%2BPro&weight=300&size=60&duration=4963&pause=995&color=625C5EFB&background=FFFFFF&center=true&vCenter=true&width=1287&height=134&lines=Software+Developer;Agile+Methodologies+(scrum+%26+xp);Principles%2C+Patterns+%26+Best+Practices)](https://git.io/typing-svg)
 
-
 ---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=juansuarezb.juansuarezb) [![GitHub juansuarezb](https://img.shields.io/github/followers/juansuarezb?label=Follow&style=social)](https://github.com/juansuarezb) <br> [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) <br>
 [![Descargar CV](https://img.shields.io/badge/Download-CV-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=0A66C2)](https://github.com/juansuarezb/juansuarezb-CV/raw/main/HojaVidaSuarezJuan.pdf)
 [![Ver CV](https://img.shields.io/badge/View-CV-informational?style=flat&logo=readthedocs&logoColor=white&color=FF5733)](https://github.com/juansuarezb/juansuarezb-CV/blob/main/HojaVidaSuarezJuan.pdf)
 
-## Things I code with:
+<h3 align="left">📬 For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
 
+---
+
+## Things I code with:
 **Programming Languages:** <br>
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -25,6 +27,7 @@
 **Tools and Services:** <br>
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+---
 ## 🌟 Proyectos Destacados
 
 <a href="https://github.com/juansuarezb/CursoJava">
@@ -35,7 +38,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=PROYECTO_DELIVERY&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Sistema Delivery" />
 </a>
 
+--- 
+## 📈 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juansuarezb&show_icons=true&theme=gotham" alt="juansuarezb" />
+</p>
 
 ---
 <h3 style="color: #58a6ff;">Where to find me</h3>
