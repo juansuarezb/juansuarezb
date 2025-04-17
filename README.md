@@ -13,29 +13,18 @@
 
 ---
 
-## Things I code with:
-**Programming Languages:** <br>
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
-
-**Tools and Services:** <br>
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
----
 ## 🌟 Proyectos Destacados
 
 <a href="https://github.com/juansuarezb/CursoJava">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=CursoJava&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso Java" />
 </a>
 
-<a href="https://github.com/juansuarezb/PROYECTO_DELIVERY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=PROYECTO_DELIVERY&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Sistema Delivery" />
+<a href="https://github.com/juansuarezb/InteligenciaArtificial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=InteligenciaArtificial&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso IA" />
+</a>
+
+<a href="https://github.com/juansuarezb/AplicacionesWeb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=AplicacionesWeb&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso de Aplicaciones Web" />
 </a>
 
 --- 
@@ -62,3 +51,20 @@
   </a>
 </p>
 </div>
+
+---
+## Things I code with:
+**Programming Languages:** <br>
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+
+**Tools and Services:** <br>
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+---
