@@ -23,6 +23,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=InteligenciaArtificial&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso IA" />
 </a>
 
+<a href="https://github.com/juansuarezb/ArquitecturaDeComputadores">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=ArquitecturaDeComputadores&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso Arquitectura de Computadores" />
+</a>
+
 <a href="https://github.com/juansuarezb/AplicacionesWeb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=AplicacionesWeb&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso de Aplicaciones Web" />
 </a>
