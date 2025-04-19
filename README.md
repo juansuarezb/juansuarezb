@@ -92,3 +92,4 @@
 
 ---
 PersonalizarScroll: https://scrollbar.app/
+botonesModoOscuro: toggles.dev
