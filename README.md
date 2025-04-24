@@ -12,8 +12,6 @@
 
 <h3 align="left">📬 For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
 
-
-
 ## 🌟 Proyectos Destacados
 
 <a href="https://github.com/juansuarezb/CursoJava">
