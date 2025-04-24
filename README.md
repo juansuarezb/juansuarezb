@@ -1,7 +1,7 @@
 <div style="font-family: 'Orbitron', sans-serif; background-color: #000000; color: #00FF41; padding: 20px; border-radius: 5px;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source%2BCode%2BPro&weight=600&size=60&duration=4963&pause=995&color=625C5EFB&background=FFFFFF&center=true&vCenter=true&width=1000&height=134&lines=Juan+Su%C3%A1rez;Project+Management;Software+Design)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source%2BCode%2BPro&weight=300&size=60&duration=4963&pause=995&color=625C5EFB&background=FFFFFF&center=true&vCenter=true&width=1287&height=134&lines=Software+Developer;Agile+Methodologies+(scrum+%26+xp);Principles%2C+Patterns+%26+Best+Practices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=4963&pause=995&color=343434FB&background=FFFFFF&center=true&vCenter=true&width=1000&height=134&lines=Software+developer;Java+lover+%3C3;Open-Source+contribuitor)](https://git.io/typing-svg)
+
 
 
 ---
