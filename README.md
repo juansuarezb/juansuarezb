@@ -74,9 +74,9 @@
 
 ---
 ## 👾 Things I code with:
-| 💻 **Programming Languages** | 🚀 **Tools and Services** |
-| - | - |
-| ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8) | [![Project 1](https://img.shields.io/badge/-My_Java_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
+| 💻 **Programming Languages** | 🚀 **Tools and Services** | **Projects**
+| - | - | - |
+| ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8) | [![Project 1](https://img.shields.io/badge/-My_Java_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) | aaa
 | ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) | [![Project 2](https://img.shields.io/badge/-Spring_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
 | ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8) |
 | ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) |
