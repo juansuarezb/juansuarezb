@@ -12,7 +12,6 @@
 
 <h3 align="left">📬 For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Bandera de Ecuador" width="60"/>
 
 
 ## 🌟 Proyectos Destacados
