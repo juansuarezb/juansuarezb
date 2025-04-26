@@ -6,9 +6,10 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=juansuarezb.juansuarezb) [![GitHub juansuarezb](https://img.shields.io/github/followers/juansuarezb?label=Follow&style=social)](https://github.com/juansuarezb) <br> [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) <br>
-[![Descargar CV](https://img.shields.io/badge/Download-CV-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=0A66C2)](https://github.com/juansuarezb/juansuarezb-CV/raw/main/HojaVidaSuarezJuan.pdf)
-[![Ver CV](https://img.shields.io/badge/View-CV-informational?style=flat&logo=readthedocs&logoColor=white&color=FF5733)](https://github.com/juansuarezb/juansuarezb-CV/blob/main/HojaVidaSuarezJuan.pdf)
+[![GitHub Followers](https://img.shields.io/github/followers/juansuarezb?style=flat&logo=github&label=Follow&logoColor=white&color=181717)](https://github.com/juansuarezb)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Love-informational?style=flat&logo=github&logoColor=white&color=4c1)](https://github.com/ellerbrock/open-source-badge/)
+[![Descargar CV](https://img.shields.io/badge/Download%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=0A66C2)](https://github.com/juansuarezb/juansuarezb-CV/raw/main/HojaVidaSuarezJuan.pdf)
+[![Ver CV](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=readthedocs&logoColor=white&color=FF5733)](https://github.com/juansuarezb/juansuarezb-CV/blob/main/HojaVidaSuarezJuan.pdf)
 
 <h3 align="left">📬 For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
 
@@ -58,37 +59,31 @@
 <h3 style="color: #58a6ff;">Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/suarezjuandb" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
   </a>
   <a href="https://medium.com/@juandisuarez87" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-Read-informational?style=flat&logo=medium&logoColor=white&color=12100E" />
   </a>
   <a href="https://youtube.com/@dsb8091" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=white&color=FF0000" />
   </a>
   <a href="mailto:juandisuarez87@hotmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836" />
   </a>
 </p>
-</div>
 
 ---
 ## 👾 Things I code with:
-| 💻 **Programming Languages** | 🚀 **Tools and Services** | **Projects**
-| - | - | - |
-| ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8) | [![Project 1](https://img.shields.io/badge/-My_Java_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) | aaa
-| ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) | [![Project 2](https://img.shields.io/badge/-Spring_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
-| ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8) |
-| ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) |
-| ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8) |
-| ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8) |
-| ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) |
-| ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8) |
 
-
-
-**Tools and Services:** <br>
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+| 💻 **Lenguajes** | 🛠️ **Herramientas & Servicios** | 📦 **Frameworks & Librerías** | 🚀 **Proyectos / Enlace** |
+| - | - | - | - |
+| ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8) | ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8) | ![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8) | [![Java Project](https://img.shields.io/badge/-My_Java_Project-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
+| ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) | ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8) | ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8) | [![Web Project](https://img.shields.io/badge/-JS_Web_App-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
+| ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) | ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) | ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8) | |
+| ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8) | ![VS Code](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8) | ![OpenGL](https://img.shields.io/badge/Graphics-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=6aa6f8) | [![Game Project](https://img.shields.io/badge/-OpenGL_Game-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/juansuarezb) |
+| ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8) | ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) | ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8) | |
+| ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8) | ![pgAdmin](https://img.shields.io/badge/DB_Tool-pgAdmin-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) |  | |
+| ![SQL](https://img.shields.io/badge/Query-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8) | ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=6aa6f8) |  | |
 
 ---
 PersonalizarScroll: https://scrollbar.app/
