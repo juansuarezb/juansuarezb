@@ -20,6 +20,7 @@
   Open Source Contributor 
 </h3>
 
+software engineering student, creative technologist, open-source contributor, AI and space simulation enthusiast, full-stack developer, game programmer, and future innovator—dedicated to building meaningful tech and sharing knowledge with the world.
 
 <h3 align="left">For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
 
