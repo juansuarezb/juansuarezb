@@ -66,6 +66,11 @@ software engineering student, creative technologist, open-source contributor, AI
   <img src="https://github-readme-stats.vercel.app/api?username=juansuarezb&show_icons=true&theme=gotham" alt="juansuarezb" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansuarezb&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 ---
 <h3 style="color: #58a6ff;">Where to find me</h3>
 <p>
