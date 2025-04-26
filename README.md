@@ -11,7 +11,17 @@
 [![Descargar CV](https://img.shields.io/badge/Download%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=0A66C2)](https://github.com/juansuarezb/juansuarezb-CV/raw/main/HojaVidaSuarezJuan.pdf)
 [![Ver CV](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=readthedocs&logoColor=white&color=FF5733)](https://github.com/juansuarezb/juansuarezb-CV/blob/main/HojaVidaSuarezJuan.pdf)
 
-<h3 align="left">📬 For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
+---
+
+<h3 align="left">
+  Software Engineering Student @ <a href="https://www.epn.edu.ec/">EPN</a> |
+  Full-Stack Developer |
+  AI Enthusiast |
+  Open Source Contributor 
+</h3>
+
+
+<h3 align="left">For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
 
 ## 🌟 Proyectos Destacados
 
