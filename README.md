@@ -26,6 +26,10 @@ software engineering student, creative technologist, open-source contributor, AI
 
 ## 🌟 Proyectos Destacados
 
+
+<a href="https://github.com/juansuarezb/TheraPose_v1.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=TheraPose_v1.0&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso Java" />
+</a> <br>
 <a href="https://github.com/juansuarezb/CursoJava">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juansuarezb&repo=CursoJava&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&show_stars=true&star_color=ffd700" alt="Curso Java" />
 </a>
