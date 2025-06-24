@@ -6,7 +6,8 @@
 <a href="https://github.com/juansuarezb/juansuarezb-CV/blob/main/HojaVidaSuarezJuan.pdf"><img src="https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=readthedocs&logoColor=white&color=FF5733" alt="Ver CV"></a>
 <h3 align="left">Software Engineering Student @ <a href="https://www.epn.edu.ec/">EPN</a> | Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 <h3 align="left">For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com">email</a> :)</h3>
-## 🌟 Proyectos Destacados
+
+##  Proyectos Destacados
   
 | Proyectos A | Proyectos B |
 |-----------|------------|
