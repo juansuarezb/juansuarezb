@@ -29,10 +29,5 @@
 <h3>Software Engineering Student @ <a href="https://www.epn.edu.ec/" style="color:#00FF41;">EPN</a> | Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 <h3>For freelance work? Do reach me at <a href="mailto:juandisuarez87@hotmail.com" style="color:#00FF41;">email</a> :)</h3>
 </div>
-<!-- Tu badge original de TryHackMe -->
-<p style="text-align:center;">
-  <a href="https://tryhackme.com/p/JuanSuarez" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/JuanSuarez.png" alt="TryHackMe Badge" />
-  </a>
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/JuanSuarez.png" alt="Your Image Badge" />
 
